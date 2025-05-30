@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "icon": "maroc",
+    "name": "Guichet Banque",
+    "role": "Comptabilité",
+    "status": "Actif",
+    "isFavorite": false
+  },
+  {
+    "id": "2",
+    "icon": "bank",
+    "name": "Guichet Banque 2",
+    "role": "Comptabilité",
+    "status": "Actif",
+    "isFavorite": true
+  },
+  {
+    "id": "3",
+    "icon": "bank",
+    "name": "Guichet Banque 3",
+    "role": "Comptabilité",
+    "status": "Inactif",
+    "isFavorite": false
+  }
+]
