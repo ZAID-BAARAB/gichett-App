@@ -1,4 +1,4 @@
-# Welcome to gichet  app of RIBATIS technical test (48H) 👋
+
 
 
 Source code on Github 
